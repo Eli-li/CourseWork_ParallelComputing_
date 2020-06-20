@@ -1,0 +1,8 @@
+1.Скачать репозиторий.
+git clone https://github.com/Eli-li/CourseWork_ParallelComputing.git
+
+2.Создать новый проект в VIsual Studio. В настройках проекта выбрать стандарт std=c++17 и добавить следущие определения препроцессора:
+_CRT_SECURE_NO_DEPRECATE
+ _CRT_NONSTDC_NO_DEPRECATE
+
+3.Скомпилировать и запустить.
